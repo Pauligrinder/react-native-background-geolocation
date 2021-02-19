@@ -1,5 +1,7 @@
 # @mauron85/react-native-background-geolocation
 
+##This is a fork with the intention of being able to post single locations in the background instead arrays.
+
 [![CircleCI](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master.svg?style=shield)](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master)
 [![issuehunt-shield-v1](issuehunt-shield-v1.svg)](https://issuehunt.io/r/mauron85/react-native-background-geolocation/)
 
